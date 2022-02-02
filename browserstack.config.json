@@ -1,0 +1,11 @@
+{
+  "devices": [
+    "Google Pixel 2"
+  ],
+  "deviceLogs": true,
+  "networkLogs": true,
+  "project": "Teste BrowserStack",
+  "shards": {
+    "numberOfShards": 3
+  }
+}
